@@ -2,7 +2,7 @@
 
 A REST API in which The JSON response will have a list of users(workers) & their corresponding periods of activity across multiple months.
 
-**API Endpoint: https://workeractivity.herokuapp.com/api/activity/all-worker/***
+**API Endpoint: https://workeractivity.herokuapp.com/api/activity/all-worker/**
 
 ## Implementation Details:
 1. REST API: DJANGO REST FRAMEWORK
