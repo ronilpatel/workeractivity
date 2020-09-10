@@ -1,8 +1,8 @@
-# Workeractivity REST API #
+# Workeractivity REST API 
 
 A REST API in which The JSON response will have a list of users(workers) & their corresponding periods of activity across multiple months.
-<hr>
-Implementation Details:
+
+## Implementation Details:
 1. REST API: DJANGO REST FRAMEWORK
 2. Django Custom Management Command has been used to populate the database with dummy data
 3. Particular JSON format has been followed
